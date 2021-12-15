@@ -348,7 +348,7 @@ public int findShortestSubArray(int[] nums) {
 }
 ```
 
-## 10. 对角元素相等的矩阵
+## 10. 对角元素相等的矩阵,
 
 766\. Toeplitz Matrix (Easy)
 
